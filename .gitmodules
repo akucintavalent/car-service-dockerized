@@ -1,0 +1,3 @@
+[submodule "car-service-appointments"]
+	path = car-service-appointments
+	url = https://github.com/akucintavalent/car-service-appointments
